@@ -7,6 +7,7 @@ coverage/
 package-lock.json
 .vscode/
 .publish/
+build/
 .DS_Store
 *.log
 *.sublime-*
