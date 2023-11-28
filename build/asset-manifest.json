@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0f5e903.css",
+    "main.js": "/static/js/main.b0c4076d.js",
+    "static/media/Unbounded-Medium.woff2": "/static/media/Unbounded-Medium.cf0b052876d39597b272.woff2",
+    "static/media/Unbounded-Regular.woff2": "/static/media/Unbounded-Regular.8e30e6e580ce1f3a5d97.woff2",
+    "index.html": "/index.html",
+    "main.f0f5e903.css.map": "/static/css/main.f0f5e903.css.map",
+    "main.b0c4076d.js.map": "/static/js/main.b0c4076d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f5e903.css",
+    "static/js/main.b0c4076d.js"
+  ]
+}
